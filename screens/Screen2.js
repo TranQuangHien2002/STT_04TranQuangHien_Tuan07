@@ -31,7 +31,7 @@ export default function Screen2({ navigation, route }) {
           ><AntDesign name="arrowleft" size={24} color="black" /></TouchableOpacity>
 
         </View>
-        <View style={{ flexDirection: "row", padding: 10 }}>
+        <View style={{ flexDirection: "row", padding: 11 }}>
           <View
             style={{
               borderRadius: "50%",
